@@ -2,10 +2,10 @@
 <widget id="com.jeilbrick.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>제일블럭</name>
     <description>
-        wikimid
+        제일블럭
     </description>
-    <author email="ch7@hanmail.net" href="http://wikimid.cafe24.com">
-        wikimid
+    <author email="ch7@hanmail.net" href="http://www.jeilbrick.com/">
+        제일블럭
     </author>
     <feature name="PushPlugin" >
     <param name="android-package" value="com.plugin.gcm.PushPlugin"/>
